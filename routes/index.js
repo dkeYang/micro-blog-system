@@ -55,7 +55,6 @@ router.post("/reg",(req,res,next)=>{
     	// req.flash('sucess','注册成功');
     	res.redirect("/");
     })
-console.log(3);
   // })
 
 });
